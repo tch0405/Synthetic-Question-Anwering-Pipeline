@@ -1,0 +1,5 @@
+nltk==3.8.1
+rouge-score==0.1.2
+bert-score==0.3.13
+torch>=1.10.0  # Needed for bert-score
+transformers>=4.36.0  # For underlying model in bert-score
